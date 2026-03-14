@@ -21,4 +21,5 @@ Este projeto automatiza o processo de monitoramento da cotação do dólar, gera
 3. Configure suas credenciais de e-mail nas variáveis de ambiente.
 4. Execute o script: `python automacao_dolar.py`.
 
+
 ![Gráfico de Cotação do Dólar](Grafico.png)
