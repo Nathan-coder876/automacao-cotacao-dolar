@@ -20,3 +20,5 @@ Este projeto automatiza o processo de monitoramento da cotação do dólar, gera
 2. Instale as dependências: `pip install matplotlib requests`.
 3. Configure suas credenciais de e-mail nas variáveis de ambiente.
 4. Execute o script: `python automacao_dolar.py`.
+
+![Gráfico de Cotação do Dólar](Figure 1 14_03_2026 15_22_06.png)
